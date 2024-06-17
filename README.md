@@ -1,2 +1,1 @@
-# vercel_app
-vercell
+This project is my Personal Portfolio Website
